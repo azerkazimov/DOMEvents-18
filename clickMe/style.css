@@ -1,0 +1,24 @@
+.nav-panel {
+	background-color: rgb(189, 189, 189);
+}
+
+.quote-container {
+	width: 100%;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 58px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+	margin: 30px auto;
+}
+
+.user-list{
+	background-color: lightgray;
+	display: block;
+}
