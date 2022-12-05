@@ -18,7 +18,8 @@
 	margin: 30px auto;
 }
 
-.user-list{
+.user-list {
 	background-color: lightgray;
 	display: block;
+	text-align: center;
 }
